@@ -1,0 +1,84 @@
+body {
+    font-size: 17px;
+    font-family: Verdana;
+    background-color: #659dbd;
+}
+
+#header-nav {
+    background-color: #85dcb0;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav button {
+    margin-top: 22px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #c38d9e;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: #c38d9e;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: 1.7em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+#nav-list {
+    background-color: #c38d9e;
+}
+
+#nav-list a {
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #202020;
+    background-color: #85dcb0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #85dcb0;
+}
+
+#main {
+    width: 92%;
+    margin-bottom: 40px;
+}
+
+#main h2 {
+    font-size: 2.7em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#mains {
+    background-color: #c38d9e;
+    box-shadow: 0 0 50px #c38d9e;
+    padding: 30px;
+}
